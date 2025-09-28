@@ -2,7 +2,6 @@
 title: Python Flask 模板注入（SSTI）
 createTime: 2025/09/28
 permalink: /article/python-flask-ssti.html
-contributors: 'Rainy'
 tags:
   - CTF
   - Web
