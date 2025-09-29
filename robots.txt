@@ -1,0 +1,3 @@
+Sitemap: https://wooow.top/sitemap.xml
+User-agent:*
+Disallow:
